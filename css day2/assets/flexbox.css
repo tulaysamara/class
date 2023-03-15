@@ -1,0 +1,22 @@
+#one {
+    background-color: red;
+    
+}
+
+#two {
+    background-color: green;
+    
+}
+
+#three {
+    background-color: blue;
+    
+}
+
+.flex-container {
+    background-color: yellow;
+    height: 50vh;
+    display: flex;
+    flex-direction: row;
+    align-content: space-between ; 
+}

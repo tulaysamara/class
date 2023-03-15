@@ -1,0 +1,37 @@
+/* comments in style sheet are like this */
+h1 {height: 100px; 
+  background-color: rgb(141, 219, 255); 
+  color: rgb(255, 196, 249);}
+
+  h2 { color:brown;
+        background-color: blue;}
+
+p {font-size: 39pt;}
+
+#mydiv { background-color: rgb(92, 67, 114); 
+    color: bisque;}
+
+#subheading {text-decoration: line-through;}
+ /* select a class selector by a dot*/
+
+ .salutation {color: rgb(255, 16, 211); }
+
+ .big { font-size: 80px;}
+
+ /*visited link style */
+ a:link { color:#f59e47}
+
+/* unvisited link style*/
+ a:unvisited { color:blueviolet}
+
+/* when you click the link*/
+ a:active { color:red}
+
+/*hovered over */
+ a:hover {color: yellow}
+
+/* combining more tan one.. you separate by comma */
+ div, #mylink, p {background-color: beige;}
+
+ /* to style everything in the document, use * */
+ * { background-color: #ff00ff;}

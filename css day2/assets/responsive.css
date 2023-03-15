@@ -1,0 +1,24 @@
+
+@media only screen and (max-width: 767px){
+
+}
+
+.mytext {
+    color: green;
+}
+
+@media only screen and (min-width: 760px){
+    .mytext {
+        color: red;
+    }
+
+#mydiv {
+    background-color: blue;
+    width: 50%;
+}
+#yadda {
+    background-color: red;
+    width: 50vw;
+    font-size: 20pt;
+}
+}

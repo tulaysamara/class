@@ -1,0 +1,23 @@
+#div1 {background-color: red;
+position: relative;
+bottom: 5px;
+left: 10px;
+position: relative
+}
+
+#flow {background-color: yellow;
+    display: inline;
+}
+
+#div2 {background-color: blue; 
+margin:auto;
+position: fixed; 
+}
+
+#hey { position: sticky;
+    top: -10px;
+    left: 40px;
+    padding: 5px;
+    background-color: rgb(159, 207, 1);
+    border: 2px solid;
+}
